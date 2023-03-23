@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cocktail-project-build/static/css/main.8c2d51ba.css",
-    "main.js": "/cocktail-project-build/static/js/main.43f27ffb.js",
+    "main.css": "/cocktail-project-build/static/css/main.b75665e6.css",
+    "main.js": "/cocktail-project-build/static/js/main.abb0b457.js",
     "static/js/787.c68b944a.chunk.js": "/cocktail-project-build/static/js/787.c68b944a.chunk.js",
     "static/media/e2.png": "/cocktail-project-build/static/media/e2.b2ea313fdeedac50ccc7.png",
     "static/media/e3.png": "/cocktail-project-build/static/media/e3.c86a95b430d04e042e52.png",
@@ -41,7 +41,7 @@
     "static/media/38.png": "/cocktail-project-build/static/media/38.7e11ee0ac214ed76a32f.png",
     "static/media/20.png": "/cocktail-project-build/static/media/20.0de0f4a8d05b39e93506.png",
     "static/media/25.png": "/cocktail-project-build/static/media/25.6df38199070accd81550.png",
-    "static/media/dummy.png": "/cocktail-project-build/static/media/dummy.f78f233183cfb84861be.png",
+    "static/media/dummy.png": "/cocktail-project-build/static/media/dummy.cf09a5fb1353dd3b7755.png",
     "static/media/3.png": "/cocktail-project-build/static/media/3.0b732cb3c40e9ceadfd7.png",
     "static/media/30.png": "/cocktail-project-build/static/media/30.732b4a5e31c7dbc910ad.png",
     "static/media/19.png": "/cocktail-project-build/static/media/19.35424ed9d0836cdf38ab.png",
@@ -60,12 +60,12 @@
     "static/media/slick.ttf": "/cocktail-project-build/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/cocktail-project-build/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cocktail-project-build/index.html",
-    "main.8c2d51ba.css.map": "/cocktail-project-build/static/css/main.8c2d51ba.css.map",
-    "main.43f27ffb.js.map": "/cocktail-project-build/static/js/main.43f27ffb.js.map",
+    "main.b75665e6.css.map": "/cocktail-project-build/static/css/main.b75665e6.css.map",
+    "main.abb0b457.js.map": "/cocktail-project-build/static/js/main.abb0b457.js.map",
     "787.c68b944a.chunk.js.map": "/cocktail-project-build/static/js/787.c68b944a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c2d51ba.css",
-    "static/js/main.43f27ffb.js"
+    "static/css/main.b75665e6.css",
+    "static/js/main.abb0b457.js"
   ]
 }
