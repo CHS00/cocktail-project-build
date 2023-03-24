@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cocktail-project-build/static/css/main.b75665e6.css",
-    "main.js": "/cocktail-project-build/static/js/main.abb0b457.js",
+    "main.css": "/cocktail-project-build/static/css/main.782c2e14.css",
+    "main.js": "/cocktail-project-build/static/js/main.20fdc745.js",
     "static/js/787.c68b944a.chunk.js": "/cocktail-project-build/static/js/787.c68b944a.chunk.js",
     "static/media/e2.png": "/cocktail-project-build/static/media/e2.b2ea313fdeedac50ccc7.png",
     "static/media/e3.png": "/cocktail-project-build/static/media/e3.c86a95b430d04e042e52.png",
@@ -60,12 +60,12 @@
     "static/media/slick.ttf": "/cocktail-project-build/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/cocktail-project-build/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cocktail-project-build/index.html",
-    "main.b75665e6.css.map": "/cocktail-project-build/static/css/main.b75665e6.css.map",
-    "main.abb0b457.js.map": "/cocktail-project-build/static/js/main.abb0b457.js.map",
+    "main.782c2e14.css.map": "/cocktail-project-build/static/css/main.782c2e14.css.map",
+    "main.20fdc745.js.map": "/cocktail-project-build/static/js/main.20fdc745.js.map",
     "787.c68b944a.chunk.js.map": "/cocktail-project-build/static/js/787.c68b944a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b75665e6.css",
-    "static/js/main.abb0b457.js"
+    "static/css/main.782c2e14.css",
+    "static/js/main.20fdc745.js"
   ]
 }
